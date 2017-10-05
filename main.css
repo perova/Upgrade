@@ -1,0 +1,44 @@
+
+ body{
+
+ 	font-family: 
+ }
+
+ a {
+ 	text-decoration: none;
+ 	color: #5cb85c;
+ }
+
+ .header {
+ 	background-color: silver;
+
+ }
+
+ button {
+ 	margin-top: 10px;
+ 	margin-right: 20px;
+ }
+.section {
+	background-color: #5cb85c;
+	color: white;
+	text-align: center;
+	padding: 30px;
+}
+.content{
+	padding: 20px;
+
+}
+
+form {
+	float: right;
+}
+
+h5{
+	text-align: center;
+}
+
+.footer {
+	background-color: silver;
+	color: white;
+	padding: 60px;
+}
