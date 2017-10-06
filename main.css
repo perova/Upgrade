@@ -20,7 +20,7 @@
  }
 .section {
 	background-color: #5cb85c;
-	color: white;
+	color: yellow;
 	text-align: center;
 	padding: 30px;
 }
@@ -36,9 +36,20 @@ form {
 h5{
 	text-align: center;
 }
-
-.footer {
+.submit{
+	text-align: center;
 	background-color: silver;
-	color: white;
+	color:#5cb85c;
+	padding: 20px;
+
+}
+.sub {
+
+}
+.footer {
+	background-color: yellow;
+	color: silver;
 	padding: 60px;
+	
+
 }

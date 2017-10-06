@@ -34,29 +34,24 @@
                         <button class="btn btn-outline-success">Apie Mus</button>
                         <button class="btn btn-outline-success">Žmonės</button>
                         <button class="btn btn-outline-success">Kontaktai</button>
-                    <div class="dropdown">
-                        <button class="btn btn-outline-success dropdown-toggle"  id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                             Prisijungti                
-                         </button>
-                     <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                        <a class="dropdown-item" href="#">Action</a>
-                        <a class="dropdown-item" href="#">Another action</a>
-                        <a class="dropdown-item" href="#">Something else here</a>
-                      </div>
-                    </div>
+                
                 </form>
             </div>
         </div>
       </div>
       <div class="container-fluid section">  
         <div class="row">
-            <div class="col-xl-12 col-sm-12">
+
+            <div class="col-xl-8 col-sm-12">
                <h1> Žmonės </h1>
             </div>
+           
         </div>
        </div>
-       <div class="container-fluid content">      
+       <div class="container-fluid content">  
         <div class="row">
+        <div class="col-xl-8">
+          <div class="row">
             <div class="col-xl-2 col-sm-6">
                 <div class="thumbnail">
                  <img src="http://www.vizyday.com/foto/min/478.jpg" class="img-thumbnail">
@@ -103,8 +98,7 @@
         </div>
         </div>
          
-       </div>
-       <div class="container-fluid content">      
+       
         <div class="row">
             <div class="col-xl-2 col-sm-6">
                 <div class="thumbnail">
@@ -152,8 +146,7 @@
         </div>
         </div>
 
-       </div>
-       <div class="container-fluid content">      
+      
         <div class="row">
             <div class="col-xl-2 col-sm-6">
                 <div class="thumbnail">
@@ -201,8 +194,7 @@
         </div>
         </div>
         
-       </div>
-       <div class="container-fluid content">      
+     
         <div class="row">
             <div class="col-xl-2 col-sm-6">
                 <div class="thumbnail">
@@ -249,6 +241,22 @@
 
         </div>
         </div>
+        </div>
+       
+                <div class="col-xl-4 col-sm-12 submit">
+                <h3>Prisijungti</h3>
+                
+                <input type="text" name="" class="form-control"  placeholder="Vardas"><br>
+                <input type="password" name="" class="form-control"  placeholder="Slaptazodis"><br>
+                <button class="btn btn-outline-success sub">+</button>
+               
+               
+              
+              </div>
+        </div>
+        </div>
+
+        <div class="container-fluid">
         <div class="row">
             <div class="col-xl-12 footer">
               <h5> Copyright © 2017 vizyDay.com All Rights Reserved </h5>
